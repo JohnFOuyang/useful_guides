@@ -1,0 +1,7 @@
+### To-do for future release
+# Interaction terms in design matrix
+Discuss more on interaction terms
+
+#  Post-DESeq gene expression analysis
+Count data transformation: rlog and VST
+Gene Co-expression
